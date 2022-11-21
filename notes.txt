@@ -3,6 +3,18 @@ Portfolio Ideas/Notes
 - Purchase matthewbaillie.dev as the host site
 - Have snapshot of the sites as well as external links out
 - Proper readme
+- Projects to use display a wide variety of languages
+    - Languages: JS/TS, Python, Ruby?, PHP?, C#, Java
+    - Front-end: React, Vue?; Styled-components
+    - Back-end: Node/Express, Django, On Rails?, .Net 6
+    - Databases: MongoDb, MySQL, PostgreSQL,
+    - APIs: Stripe, Google Maps, Google/Fb Sign-in
+- Projects to display: 
+    - Venuse: Front- 
+    - Kin on the Go
+    - Pairify
+    - Ecommerce site: Front- React/TS Back- Django
+- Host on Heroku and Netlify
 - https://brainstation.io/career-guides/how-to-build-a-web-developer-portfolio
 Portfolio examples
     - https://alvarotrigo.com/blog/web-developer-portfolio-examples/
