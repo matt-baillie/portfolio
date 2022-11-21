@@ -1,0 +1,9 @@
+Portfolio Ideas/Notes
+- Learn webGL/three.js for a cool graphic hero
+- Purchase matthewbaillie.dev as the host site
+- Have snapshot of the sites as well as external links out
+- Proper readme
+- https://brainstation.io/career-guides/how-to-build-a-web-developer-portfolio
+Portfolio examples
+    - https://alvarotrigo.com/blog/web-developer-portfolio-examples/
+    - https://jacekjeznach.com/
